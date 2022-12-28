@@ -1,0 +1,25 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  table {
+    width: 100%;
+    background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  }
+
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+
+}
+mat-paginator{
+  background-color: rgb(161, 200, 190);
+}
+
+
